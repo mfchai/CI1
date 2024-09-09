@@ -3,7 +3,7 @@ job('Python-Build-Job') {
 
     // Source Code Management
     scm {
-        git('https://github.com/mfchai/CI1.git')
+        git('https://github.com/mfchai/CI1')
     }
 
     // Build Triggers
